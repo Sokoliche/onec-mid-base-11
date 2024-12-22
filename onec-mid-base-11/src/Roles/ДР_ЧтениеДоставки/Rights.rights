@@ -19,7 +19,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Document.Доставка</name>
+		<name>Document.ДР_Доставка</name>
 		<right>
 			<name>Read</name>
 			<value>true</value>
