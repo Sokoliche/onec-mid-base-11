@@ -149,7 +149,7 @@
       <value>Размещение</value>
     </synonym>
     <type>
-      <types>DocumentRef.Доставка</types>
+      <types>DocumentRef.ДР_Доставка</types>
     </type>
     <toolTip>
       <key>ru</key>

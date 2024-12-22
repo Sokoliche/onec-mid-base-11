@@ -822,10 +822,10 @@
 		ИНАЧЕ 0
 	КОНЕЦ КАК ЕстьФайлы
 ИЗ
-	Документ.Доставка КАК ДокументДоставка
+	Документ.ДР_Доставка КАК ДокументДоставка
 		ЛЕВОЕ СОЕДИНЕНИЕ РегистрСведений.НаличиеФайлов КАК НаличиеФайлов
 		ПО ДокументДоставка.Ссылка = НаличиеФайлов.ОбъектСФайлами</queryText>
-      <mainTable>Document.Доставка</mainTable>
+      <mainTable>Document.ДР_Доставка</mainTable>
       <autoFillAvailableFields>true</autoFillAvailableFields>
       <customQuery>true</customQuery>
       <autoSaveUserSettings>true</autoSaveUserSettings>

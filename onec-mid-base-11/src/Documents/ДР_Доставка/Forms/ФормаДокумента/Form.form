@@ -990,7 +990,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>DocumentObject.Доставка</types>
+      <types>DocumentObject.ДР_Доставка</types>
     </valueType>
     <view>
       <common>true</common>

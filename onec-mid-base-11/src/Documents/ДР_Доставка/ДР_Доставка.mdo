@@ -7,13 +7,14 @@
     <listType typeId="c5e79be0-d63a-487d-8bdb-65d8d7e34581" valueTypeId="bd35c100-4146-483a-bfcd-a4548d1437c8"/>
     <managerType typeId="b3dd2a2a-6dc2-49d4-8598-6ba875b2c6a3" valueTypeId="ea944a00-3f4c-40ab-99ea-a1e202d6ed95"/>
   </producedTypes>
-  <name>Доставка</name>
+  <name>ДР_Доставка</name>
   <synonym>
     <key>ru</key>
     <value>Доставка</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
-  <inputByString>Document.Доставка.StandardAttribute.Number</inputByString>
+  <inputByString>Document.ДР_Доставка.StandardAttribute.Number</inputByString>
+  <inputByString>Document.ДР_Доставка.StandardAttribute.Number</inputByString>
   <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
   <standardAttributes>
     <dataHistory>Use</dataHistory>
@@ -69,8 +70,8 @@
   <numberAllowedLength>Variable</numberAllowedLength>
   <checkUnique>true</checkUnique>
   <autonumbering>true</autonumbering>
-  <defaultObjectForm>Document.Доставка.Form.ФормаДокумента</defaultObjectForm>
-  <defaultListForm>Document.Доставка.Form.ФормаСписка</defaultListForm>
+  <defaultObjectForm>Document.ДР_Доставка.Form.ФормаДокумента</defaultObjectForm>
+  <defaultListForm>Document.ДР_Доставка.Form.ФормаСписка</defaultListForm>
   <postInPrivilegedMode>true</postInPrivilegedMode>
   <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
   <attributes uuid="54b4425f-f88a-4956-bbf2-0001e875b97d">
